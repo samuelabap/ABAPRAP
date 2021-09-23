@@ -11,3 +11,5 @@ write :/'successfull commit2 for git'.
 
 
 write :/'browser'.
+
+write :/'branch1 added'.
